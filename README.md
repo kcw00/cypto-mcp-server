@@ -9,7 +9,7 @@ This project is a custom **MCP (Model-Context-Protocol) Server** built to analyz
 - Pulls recent YouTube videos for any given crypto symbol (e.g., BTC, ETH, XRP)
 - Filters to show only:
   - Videos published in the last **2 weeks**
-  - **English-language** content (`defaultAudioLanguage`)
+  - **English** supported content (`defaultAudioLanguage`)
   - **Long-form videos** (5+ minutes)
 - Sorts videos by **highest view count**
 - Returns results in clean **Markdown format**
